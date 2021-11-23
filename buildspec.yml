@@ -2,4 +2,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "dev branch - test manual"
+      - echo "dev branch - testManual"
